@@ -16,13 +16,18 @@ composer install
 npm install
 npm run dev
 ```
+
 ### 3. Generate the .env file and application key:
+on new terminal:
+```bash
+cd e-catalog
+```
 ```bash
 cp .env.example .env
 php artisan key:generate
 ```
 ### 4. Database Config:
-- Create new database named e-catalog
+- Create new database named e_catalog
 - Config the .env file
   ```env
   DB_DATABASE=e_catalog
