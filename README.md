@@ -70,6 +70,7 @@ Terdapat 5 akun pada database sesuai rolenya:
 5. Logistik Admin :
    - Email: logistik@example.com
    - Password: password
+
 *) Logout dapat dilakukan melalui menu dropdown di kanan atas.
 ### 3. Data Entry
 Setiap Admin memiliki tugas berbeda untuk melengkapi data items:
